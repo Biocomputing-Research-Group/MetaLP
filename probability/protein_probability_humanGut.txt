@@ -1,0 +1,14 @@
+Specie	probability	prefix
+Bacteroides intestinalis	0.3497944893	Unknown
+Bacteroides vulgatus	0.1233901659	ABR
+Ruminococcus	0.09445121023	Ralbu
+Bacteroides caccae	0.09102603136	Bcacc
+Escherichia coli	0.1053889481	Ecoli
+Bacteroides ovatus	0.07448622317	ALJ
+Uncultured Ruminococcaceae bacterium clone	0.03447252245	Rsp
+Bacteroides thetaiotaomicron	0.04318008829	AAO,ADX
+Parabacteroides distasonis	0.03563708327	Pdist
+Subdoligranulum variabile	0.02219515908	Svari
+Collinsella aerofaciens	0.01710305983	Caero
+Bacteroides finegoldiis	0.004939869082	Bfine
+Odoribacter splanchnicus	0.003935149947	Ospla
