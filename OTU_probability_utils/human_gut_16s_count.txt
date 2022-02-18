@@ -1,0 +1,40 @@
+ASV	annotated_species	names_abs	uni_fa	size
+ASV_1	Bacteroides intestinalis	unknown 	Uni_1	9362
+ASV_2	Bacteroides vulgatus	ABR 	Uni_2	9274
+ASV_3	Ruminococcus	Ralbu 	Uni_3	7618
+ASV_4	Bacteroides caccae	Bcacc 	Uni_4	7067
+ASV_5	Bacteroides vulgatus	ABR	Uni_5	6937
+ASV_6	Escherichia coli	Ecoli 	Uni_6	6879
+ASV_7	Bacteroides intestinalis	unknown 	Uni_7	6876
+ASV_8	Escherichia coli	Ecoli 	Uni_8	5319
+ASV_9	Bacteroides caccae	Bcacc	Uni_9	4892
+ASV_10	Ruminococcus	Ralbu	Uni_10	4791
+ASV_11	Bacteroides ovatus	ALJ 	Uni_11	3401
+ASV_12	Uncultured Ruminococcaceae bacterium clone	Rsp	Uni_12	3360
+ASV_13	Bacteroides thetaiotaomicron	AAO,ADX	Uni_13	3242
+ASV_14	Parabacteroides distasonis	Pdist	Uni_14	3239
+ASV_15	Subdoligranulum variabile	Svari	Uni_15	2475
+ASV_16	Bacteroides ovatus	ALJ 	Uni_16	2457
+ASV_17	Bacteroides thetaiotaomicron	AAO,ADX	Uni_17	2431
+ASV_18	Parabacteroides distasonis	Pdist	Uni_18	1443
+ASV_19	Collinsella aerofaciens	Caero 	Uni_19	1216
+ASV_20	Bacteroides ovatus	ALJ	Uni_20	1167
+ASV_21	Peptococcus niger	unknown	Uni_21	1129
+ASV_22	Bacteroides ovatus	ALJ	Uni_22	1065
+ASV_23	Collinsella aerofaciens	Caero 	Uni_23	1021
+ASV_24	Escherichia coli Nissle	Ecoli	Uni_24	891
+ASV_25	Bacteroides ovatus	ALJ	Uni_25	890
+ASV_26	Peptococcus niger	unknown 	Uni_26	859
+ASV_27	Bacteroides ovatus	ALJ 	Uni_27	806
+ASV_28	Escherichia coli Nissle	Ecoli	Uni_28	662
+ASV_29	Uncultured Ruminococcaceae bacterium clone	Rsp	Uni_29	592
+ASV_30	Uncultured Ruminococcaceae bacterium clone	Rsp 	Uni_30	498
+ASV_31	Subdoligranulum variabile	Svari 	Uni_31	441
+ASV_32	Bacteroides finegoldiis	Bfine	Uni_34	389
+ASV_33	Odoribacter splanchnicus	Ospla	Uni_35	331
+ASV_34	Bacteroides finegoldiis	Bfine	Uni_37	260
+ASV_35	Odoribacter splanchnicus	Ospla	Uni_40	186
+ASV_36	Peptococcus niger	unknown	Uni_43	151
+ASV_37	Escherichia coli Nissle	Ecoli	Uni_45	95
+ASV_38	Uncultured Ruminococcaceae bacterium clone	Rsp 	Uni_48	79
+ASV_39	Collinsella aerofaciens	Caero   	Uni_359	10
